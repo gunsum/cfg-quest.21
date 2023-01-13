@@ -3,7 +3,8 @@ var readingList = [
     "The Republic",
     "Giovanni's Room",
 ]
-console.log(readingList.METHOD_NAME(","))
+//console.log(readingList.METHOD_NAME(","))
+console.log(readingList.join(","));
 
 // join(,)
 // toString()
